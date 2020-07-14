@@ -10,7 +10,7 @@
         string result;
             
         getline(cin, sentence);
-        //test
+        //test,
         for (int c = 0; c < sentence.size(); ++c)
         {
             if (in_skip_state) {
